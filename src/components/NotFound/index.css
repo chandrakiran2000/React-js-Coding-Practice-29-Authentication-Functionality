@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+
+.notfound-card {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.notfound-heading {
+  font-size: 40px;
+}

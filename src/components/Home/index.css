@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+
+.home-card {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-heading {
+  font-size: 40px;
+}
